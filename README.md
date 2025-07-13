@@ -74,4 +74,4 @@ The script will display the test image(s) with bounding boxes and names for any 
 ## 📸 Example Output  
 This GIF showcases our algorithm running in real-time:
 
-![Real-Time Traffic Analysis GIF](FaceRecoginitionVd/testVd.gif) 
+![Real-Time Traffic Analysis GIF](testVd.gif) 
